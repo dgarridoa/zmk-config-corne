@@ -1,0 +1,1 @@
+# ZMK wireless corne config
